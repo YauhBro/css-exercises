@@ -1,0 +1,20 @@
+div{
+
+    background-color: red;
+    height: 50px;
+}
+#title{
+    color: white;
+    position: relative;
+    left: 50%;
+    font-size: 40px;
+}
+
+#divp2{
+    background-color: green;
+    height: 40px;
+}
+#p1{
+    color: white;  
+    font-size:  20px;
+}
